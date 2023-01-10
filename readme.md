@@ -2,7 +2,7 @@
 
 ## `Informations`
 
-Projet final de la formation [JS Fullstack](https://www.diginamic.fr/catalogue/developpement-web-et-mobile/formation-developpeur-fullstack-js/) à Diginamic.
+Projet final de la formation [JS Fullstack](https://www.diginamic.fr/catalogue/developpement-web-et-mobile/formation-developpeur-fullstack-js/) à Diginamic. (pair programming)
 
 **Date** : 13 au 21 décembre 2022
 
